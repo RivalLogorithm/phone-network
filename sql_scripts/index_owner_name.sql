@@ -1,0 +1,1 @@
+CREATE INDEX owner_name ON owner(owner_name);
